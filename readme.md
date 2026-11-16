@@ -33,3 +33,6 @@ Rework
 ## 1.1.1
 - Ignore broken items. (Probably from other mods.)
 - Expand upon point dump file.
+
+## 2.0.0
+- Updated to SPT 4.0.x (not compatible with 4.1.x).
