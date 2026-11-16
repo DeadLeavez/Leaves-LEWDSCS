@@ -13,6 +13,9 @@ KEEP IN MIND THIS IS MULTIPLIED BY OTHER MODS LIKE SVM LOOSE LOOT MULTIPLIERS, S
 
 If you want to use this along my LootFuckery mod, it should be loaded BEFORE that mod. But do what you want, I can't tell you what to do.
 
+## Requirements
+- [Leaves-LeavesUtil](https://github.com/DeadLeavez/Leaves-LeavesUtil) ([latest release](https://github.com/DeadLeavez/Leaves-LeavesUtil/releases/latest)) - required.
+
 ## 1.0.0
 Initial Release
 
